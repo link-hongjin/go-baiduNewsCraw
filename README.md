@@ -1,8 +1,8 @@
-# go-baiduNewsCraw 百度热搜排行爬虫案例
+# go-Craw go语言爬虫案例（只限学习交流）
 
-# 使用方法：
-# go build baiduNewsCraw.go 
-# ./baiduNewsCraw 
-# 定时爬取：
-# ./baiduNewsCraw -t 分钟 
+## 1、百度热搜排行爬取案例
+### 使用方法：
+### go build baiduNewsCraw.go 
+### ./baiduNewsCraw 
+### 定时爬取： ./baiduNewsCraw -t 分钟 
 
