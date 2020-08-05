@@ -1,8 +1,16 @@
 # go-Craw go语言爬虫案例（只限学习交流）
 
-## 1、百度热搜排行爬取案例
-### 使用方法：
-### go build baiduNewsCraw.go 
-### ./baiduNewsCraw 
-### 定时爬取： ./baiduNewsCraw -t 分钟 
+## 使用须知
+#### 编译 go build xxx.go
+#### ./xxx
+#### 定时爬取： ./xxx -t 分钟
+
+## 目录
+###  1、百度热搜排行爬取案例
+###  2、百度电影排行榜爬取案例
+
+
+
+
+
 
